@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(77, 129, 131);
+  width: 100%;
+  height: 100%;
+}
+
+.heading{
+  width: 70%;
+  height: 70px;
+  background-color: rgb(159, 251, 251);
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  border: 2px solid rgb(77, 29, 29);
+  align-items: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
